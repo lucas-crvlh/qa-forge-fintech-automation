@@ -17,7 +17,8 @@ Testes de API (Pytest) validam a lógica de negócio e a persistência de saldos
 Testes E2E (Playwright) simulam a jornada do usuário na interface, focando na usabilidade e na correta exibição dos dados já validados.
 
 🛠️ Tecnologias e Arquitetura
-Este projeto utiliza um stack de ferramentas moderno e escalável, seguindo o padrão Page Object Model (POM).
+
+* Este projeto utiliza um stack de ferramentas moderno e escalável, seguindo o padrão Page Object Model (POM).
 
 | Componente | Tecnologia/Padrão | Uso Estratégico |
 | :--- | :--- | :--- |
