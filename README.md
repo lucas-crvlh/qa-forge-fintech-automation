@@ -10,7 +10,7 @@ O setor financeiro digital sofre com o alto risco de integridade de dados (erros
 
 🎯 Solução do QA-Forge:
 
-Implementamos uma Estratégia Híbrida para isolar o risco:
+Implementação de Estratégia Híbrida para isolar o risco:
 
 Testes de API (Pytest) validam a lógica de negócio e a persistência de saldos, que é o coração do sistema.
 
