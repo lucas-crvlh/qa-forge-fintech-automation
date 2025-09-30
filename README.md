@@ -45,4 +45,4 @@ Transações Assíncronas: Implementação de um mecanismo de Polling na API par
 
 Segurança em CI/CD: Uso de GitHub Secrets para proteger credenciais de acesso durante a execução automatizada.
 
-Autor: [Lucas Carvalho Cordeiro] - [https://www.linkedin.com/in/lucas-crvlh00/]
+Autor: Lucas Carvalho Cordeiro - https://www.linkedin.com/in/lucas-crvlh00/
