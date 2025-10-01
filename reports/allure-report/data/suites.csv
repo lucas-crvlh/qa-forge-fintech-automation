@@ -1,0 +1,20 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+Pré-requisito para o E2E: Verifica se a conta criada pela fixture pode ser 
+consultada com sucesso (Mock 200).
+","738","test_01_consulta_saldo_usuario_cadastrado","tests.api","2025-09-30","passed","2025-09-30","","test_transferencia_api","",""
+"
+Teste de Fumaça/Sucesso: Verifica o fluxo principal de transferência (Mock 200).
+","902","test_03_transferencia_deve_ser_concluida_com_sucesso","tests.api","2025-09-30","passed","2025-09-30","","test_transferencia_api","",""
+"
+Testa se a API retorna 404 Not Found ao consultar uma conta que não existe.
+","782","test_05_consulta_saldo_conta_inexistente","tests.api","2025-09-30","passed","2025-09-30","","test_transferencia_api","",""
+"
+Verifica a Regra de Negócio: Não deve permitir CPF duplicado (Mock 409).
+","673","test_02_cadastro_com_cpf_duplicado_deve_falhar","tests.api","2025-09-30","passed","2025-09-30","","test_transferencia_api","",""
+"
+Testa se a transferência falha quando a conta de destino não está cadastrada (Mock 404).
+","711","test_06_transferencia_conta_destino_inexistente_deve_falhar","tests.api","2025-09-30","passed","2025-09-30","","test_transferencia_api","",""
+"
+Verifica a Regra de Negócio: Transferência com saldo insuficiente deve falhar (Mock 400).
+","800","test_04_transferencia_com_saldo_insuficiente_deve_falhar","tests.api","2025-09-30","passed","2025-09-30","","test_transferencia_api","",""

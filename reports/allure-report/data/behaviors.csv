@@ -1,0 +1,7 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","Consulta de Saldo","1","0","Consulta de saldo de usuário cadastrado","0"
+"0","","0","Transferência","1","0","Transferência com sucesso","0"
+"0","","0","Consulta de Saldo","1","0","Consulta de conta inexistente","0"
+"0","","0","Cadastro de Usuário","1","0","Validação de CPF duplicado","0"
+"0","","0","Transferência","1","0","Transferência para conta destino inexistente","0"
+"0","","0","Transferência","1","0","Transferência com saldo insuficiente","0"
