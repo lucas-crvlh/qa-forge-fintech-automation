@@ -71,3 +71,7 @@ Os 6 testes implementados simulam o *core business* de uma Fintech:
     ```
 
 Autor: Lucas Carvalho Cordeiro - https://www.linkedin.com/in/lucas-crvlh00/
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/824bbd0f-bb21-438a-9c0c-e307a781b626" />
+
+
