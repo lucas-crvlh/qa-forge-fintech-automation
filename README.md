@@ -1,6 +1,6 @@
 # 🚀 QA-Forge: Framework de Automação Focado em API para Fintechs
 
-[![CI Status](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/actions/workflows/main.yml/badge.svg)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/actions/workflows/main.yml)
+[![CI Status](https://github.com/lucas-crvlh/qa-forge-fintech-automation/actions/workflows/main.yml/badge.svg)](https://github.com/lucas-crvlh/qa-forge-fintech-automation/actions/workflows/main.yml)
 
 ### 🌟 Visão Geral do Projeto (API-First Testing)
 
